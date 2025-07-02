@@ -6,7 +6,7 @@ A TCL-based tool that parses RTL files (Verilog/VHDL/System Verilog) to automati
 
 ## Prerequisites
 - **TCL Interpreter**: Ensure a TCL environment is installed (e.g., included with tools like Vivado, Synopsys Design Compiler, or Yosys).
-- **RTL Files**: Verilog (`.v`) or VHDL (`.vhd`) or (`.sv`) files as input.
+- **RTL Files**: Verilog (`.v`) or VHDL (`.vhd`) or System Verilog(`.sv`) files as input.
 - **EDA Tool**: A compatible EDA tool (e.g., Vivado, Yosys, or Synopsys tools) for processing the generated SDC file.
 
 ## Usage
